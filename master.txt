@@ -1,2 +1,3 @@
 file master
-aaaaaa
+aaaaaa 
+ok
